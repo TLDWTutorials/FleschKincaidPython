@@ -47,4 +47,3 @@ Distributed under the MIT License.
 ## Contact
 Email - TLDW_Tutorials@protonmail.com
 
-Project Link: https://github.com/TLDWTutorials/FleschKincaidPython/
