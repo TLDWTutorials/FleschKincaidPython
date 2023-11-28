@@ -21,13 +21,12 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/TLDWTutorials/FleschKincaidPython/
 ```
-
-
 Install the required packages:
 
-bash
+```bash
 Copy code
 pip install python-docx textstat
+```
 Usage
 Place your .docx interview transcript files in the same directory as the script.
 
