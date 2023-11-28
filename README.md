@@ -1,4 +1,4 @@
-## Interview Transcript Analysis with Flesch-Kincaid Grade Leve
+## Interview Transcript Analysis with Flesch-Kincaid Grade Level
 
 This Python script, `assess_grade.py`, offers a simple and effective way to analyze qualitative interview transcripts and calculate the Flesch-Kincaid grade level for each participant's responses. It's ideal for researchers, linguists, and educators interested in readability and qualitative data analysis.
 
@@ -45,6 +45,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check issu
 Distributed under the MIT License. 
 
 ## Contact
-Your Name - TLDW_Tutorials@protonmail.com
-
+Email - TLDW_Tutorials@protonmail.com
 Project Link: https://github.com/TLDWTutorials/FleschKincaidPython/
