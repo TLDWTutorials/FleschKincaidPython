@@ -29,6 +29,7 @@ pip install python-docx textstat
 ## Usage
 
 (1) Place your .docx interview transcript files in the same directory as the script.
+
 (2) Run the script:
 
 ```bash
@@ -41,7 +42,7 @@ python assess_grade.py
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. 
 
 ## Contact
 Your Name - TLDW_Tutorials@protonmail.com
