@@ -39,7 +39,7 @@ python assess_grade.py
 (3) The script will process each file and output the Flesch-Kincaid grade level for each speaker.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
+Contributions, issues, and feature requests are welcome! 
 
 ## License
 Distributed under the MIT License. 
