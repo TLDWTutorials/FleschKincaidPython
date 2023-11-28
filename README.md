@@ -19,7 +19,8 @@ This Python script, `assess_grade.py`, offers a simple and effective way to anal
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/TLDWTutorials/FleschKincaidPython/
+git clone https://github.com/TLDWTutorials/FleschKincaidPython/ ```
+
 
 Install the required packages:
 
