@@ -22,5 +22,5 @@ Clone the repository to your local machine:
 git clone https://github.com/TLDWTutorials/FleschKincaidPython/
 
 Install the required packages:
-```bash
+
  install python-docx textstat
