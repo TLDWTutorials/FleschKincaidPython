@@ -24,10 +24,10 @@ git clone https://github.com/TLDWTutorials/FleschKincaidPython/
 Install the required packages:
 
 ```bash
-Copy code
 pip install python-docx textstat
 ```
-Usage
+##Usage
+
 Place your .docx interview transcript files in the same directory as the script.
 
 Run the script:
